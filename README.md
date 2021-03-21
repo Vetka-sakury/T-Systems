@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : {Alfiya Miftakhova}
-* Codeship : {https://app.codeship.com/projects/c4d24532-41f4-4827-9ce4-26afe131447d/status?branch=master}
+* Codeship : [![Codeship Status for Vetka-sakury/T-Systems](https://app.codeship.com/projects/c4d24532-41f4-4827-9ce4-26afe131447d/status?branch=master)](https://app.codeship.com/projects/435708)
 
 
 ### How to start?  ###
