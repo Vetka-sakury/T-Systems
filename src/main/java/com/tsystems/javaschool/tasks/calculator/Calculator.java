@@ -136,6 +136,7 @@ public class Calculator {
             if (symbol == ')') closePar++;
         }
         if (openPar!=closePar) return false;
+
         else return true;
     }
 }
